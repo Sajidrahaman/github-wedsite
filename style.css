@@ -154,8 +154,9 @@ span{
 
 @media(max-width: 752px){
     .maincontainer{
-        width: 87%;
-        height: 320px;
+        width: 85%;
+        height: 360px;
+        margin-left: 2%;
     }
    .frist-ciled{
     margin-top: 50px;
